@@ -1,0 +1,57 @@
+/*
+    File: style.css
+    
+    Description: Adds style to file resume.html
+    
+    Author: MAV
+    
+    Date created: 20 Sept 2013
+    
+    Date modified: 20 Spet 2013
+    
+*/
+html{
+    //background-color:#557FBA
+}
+
+body{
+    width: 70%;
+    margin: auto;
+    background-color:#FFFFF0
+}
+
+h3{
+    margin-left: 5px;
+    margin-bottom: 0px;
+    color: #AF7053;
+}
+
+h4{
+    margin-left: 5px;
+    margin-bottom: 0px;
+    color: #5465AF;
+}
+
+h3 + h4{
+    margin-top: 0px;
+}
+
+h3 + p{
+    margin-top: 0px;
+}
+
+h4 + p{
+    margin-top: 0px;
+}
+
+p{
+    margin-left: 5px;
+}
+
+a{
+    color: #5465AF;
+}
+
+td{
+    padding-right:30px;
+}
